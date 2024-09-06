@@ -1,5 +1,5 @@
 ---
-name: Feedback request
+name: Feedback
 about: Suggest an idea for this project
 title: "[Feedback]"
 labels: Feedback
